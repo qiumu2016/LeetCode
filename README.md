@@ -1,2 +1,3 @@
-# LeetCode
-LeetCode刷题记录
+# LeetCode题目分类
+
+## 题目分类
